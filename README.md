@@ -1,1 +1,1 @@
-# film-catalog
+# Film Catalog
