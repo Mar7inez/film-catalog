@@ -2,6 +2,8 @@
 
 Version 1.0
 
+Stack: Java 17 - H2 - thymeleaf
+
 ![image](https://github.com/Mar7inez/film-catalog/assets/89807910/600d9faa-c407-4585-9133-eb5290542053)
 
 
